@@ -5,7 +5,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=niefdev&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
----
 [![](https://visitcount.itsvg.in/api?id=niefdev&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
