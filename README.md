@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Niefdev] 👋
+# Hi there, I'm Niefdev 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
@@ -30,24 +30,6 @@ const techStack = {
     currentlyExploring: '🚀 Always learning something new!'
 };
 ```
-
-## Expertise 💫
-
-<div align="center">
-
-| Mobile & Web | Systems & IoT | Data & Backend |
-|:------------:|:-------------:|:--------------:|
-| Flutter Magic | IoT Solutions | API Architecture |
-| Responsive UIs | System Design | Database Optimization |
-| Cross-platform | Real-time Processing | Scalable Solutions |
-
-</div>
-
-## My Craft 🛠️
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
 
 <details>
 <summary>Technical Proficiency Details 🔍</summary>
