@@ -46,21 +46,9 @@ const techStack = {
 - Performance Tuning
 
 ### Framework Expertise
-- Modern Frontend Frameworks
 - Backend Development
 - API Development
-- Real-time Systems
 </details>
-
-## Let's Connect 🌟
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com)
-
-</div>
 
 ---
 
