@@ -3,7 +3,7 @@
 # Hi there, I'm Niefdev 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/niefdev?label=Follow&style=social)](https://github.com/niefdev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/alief-abdur-rahman-salam-445560350/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/niefdev))
 
 ### _Crafting digital experiences across platforms_
 
