@@ -49,7 +49,7 @@ const techStack = {
 - API Development
 </details>
 
-----
+---
 
 <div align="center">
     <i>Happy coding! Let's build something amazing together.</i> 🚀
