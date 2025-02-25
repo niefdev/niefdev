@@ -33,11 +33,15 @@ const techStack = {
 <details>
 <summary>My Systems in Action 🔍</summary>
 
+---
+
 ### UAIL - Uploader Arsip Induk Langganan  
 A lightweight automation tool used by **PLN SBU (Surabaya Utara)** to streamline document processing for **Arsip Induk Langganan**.  
 - Extracts relevant data from documents automatically.  
 - Uploads and inputs data into the main system **without manual intervention**.  
 - **Speeds up workflow** and **reduces human error**, improving efficiency in document management.  
+
+---
 
 ### [LinkerMatch Telegram Bot](https://t.me/LinkerMatchBot)  
 A **matchmaking bot for gamers** to find teammates based on common interests.  
@@ -45,11 +49,15 @@ A **matchmaking bot for gamers** to find teammates based on common interests.
 - Designed for **fast and accurate** player matching.  
 - Helps gamers connect effortlessly and build better teams.  
 
+---
+
 ### SI SISWA - Sistem Presensi dan Absensi Siswa  
 A smart attendance system with **automated QR and face recognition**.  
 - Supports **QR code scanning** and **facial recognition** for seamless check-ins.  
 - **Automatically notifies parents** when students arrive or leave.  
 - Enhances school security and attendance tracking.  
+
+---
 
 </details>
 
