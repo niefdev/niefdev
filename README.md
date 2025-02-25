@@ -31,22 +31,26 @@ const techStack = {
 ```
 
 <details>
-<summary>Technical Proficiency Details 🔍</summary>
+<summary>My Systems in Action 🔍</summary>
 
-### Development Environments
-- Mobile & Cross-platform Development
-- Web Applications & Services
-- Desktop Solutions
+### UAIL - Uploader Arsip Induk Langganan  
+A lightweight automation tool used by **PLN SBU (Surabaya Utara)** to streamline document processing for **Arsip Induk Langganan**.  
+- Extracts relevant data from documents automatically.  
+- Uploads and inputs data into the main system **without manual intervention**.  
+- **Speeds up workflow** and **reduces human error**, improving efficiency in document management.  
 
-### Database Mastery
-- Complex Query Optimization
-- Database Architecture Design
-- Data Migration & Integration
-- Performance Tuning
+### [LinkerMatch Telegram Bot](https://t.me/LinkerMatchBot)  
+A **matchmaking bot for gamers** to find teammates based on common interests.  
+- Gained **1,200 active users** within just **one month after release** (as of February 25, 2025).  
+- Designed for **fast and accurate** player matching.  
+- Helps gamers connect effortlessly and build better teams.  
 
-### Framework Expertise
-- Backend Development
-- API Development
+### SI SISWA - Sistem Presensi dan Absensi Siswa  
+A smart attendance system with **automated QR and face recognition**.  
+- Supports **QR code scanning** and **facial recognition** for seamless check-ins.  
+- **Automatically notifies parents** when students arrive or leave.  
+- Enhances school security and attendance tracking.  
+
 </details>
 
 ---
