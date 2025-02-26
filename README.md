@@ -19,14 +19,14 @@ I transform ideas into elegant solutions, specializing in cross-platform develop
 
 ```javascript
 const techStack = {
-    databases: ['MySQL', 'PostgreSQL', 'SQLite'],
-    languages: ['Python', 'PHP', 'Node.js', 'Dart', 'C++'],
+    databases: ['MySQL', 'PostgreSQL', 'SQLite', 'MongoDB'],
+    languages: ['Python', 'PHP', 'Node.js', 'Dart', 'C++', 'GDScript'],
     frontend: {
         css: ['Tailwind', 'Bootstrap', 'Semantic UI'],
-        desktop: ['PyQt']
+        desktop: ['PyQt'],
+        mobile: ['React Native', 'Flutter']
     },
-    frameworks: ['Express', 'CodeIgniter', 'Laravel', 'Flutter'],
-    currentlyExploring: '🚀 Always learning something new!'
+    frameworks: ['Express', 'Fastify', 'CodeIgniter', 'Laravel']
 };
 ```
 
