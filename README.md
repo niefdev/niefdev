@@ -36,7 +36,7 @@ const techStack = {
 ---
 
 ### UAIL - Uploader Arsip Induk Langganan  
-A lightweight automation tool used by **PLN SBU (Surabaya Utara)** to streamline document processing for **Arsip Induk Langganan**.  
+A automation tool used by **PLN SBU (Surabaya Utara)** to streamline document processing for **Arsip Induk Langganan**.  
 - Extracts relevant data from PDF documents automatically with OCR.
 - Uploads and inputs data into the main system **without manual intervention**.
 - **Speeds up workflow** and **reduces human error**, improving efficiency in document management.
